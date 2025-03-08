@@ -29,4 +29,4 @@ public class Asersi2{
     }
 }
 
-// Kesalahan : Asersi ada di tempat yang salah. pengecekan di program bahwa jari jari tidak boleh kurang dari 0 dilakukan setelah program telah membuat lingkaran, hal ini menyebabkan program jadinya tetap mencetak hasil bahkan jika nilai jari jari kurang dari 0, yang dimana hal ini tidak sesuai dengan logika matematika, dan tidak ada tulisan atau pengingat error kepada pengguna/pembuat jika error ini terjadi. Program juga 
+// Kesalahan : Asersi ada di tempat yang salah. pengecekan di program bahwa jari jari tidak boleh kurang dari 0 dilakukan setelah program telah membuat lingkaran, hal ini menyebabkan program jadinya tetap mencetak hasil bahkan jika nilai jari jari kurang dari 0, yang dimana hal ini tidak sesuai dengan logika matematika, dan tidak ada tulisan atau pengingat error kepada pengguna/pembuat jika error ini terjadi.
