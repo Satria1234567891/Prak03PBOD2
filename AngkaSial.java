@@ -27,4 +27,4 @@
     }
 }
 
-// Baris 12 tidak akan dieksekusi saat program menjalankan cobaAngka(13) yaitu yang kedua, karena 13 sama dengan 13, jadi dia langsung di throw dan program langsung jalan ke bagian catch dan error diprint, melewatkan baris 12. sementara itu setelah ini, baris ke 21 akan dieksekusi karena kondisinya terpenuhi(exception terjadi).
+// Baris 12 tidak akan dieksekusi karena saat program menjalankan cobaAngka(13) yaitu yang kedua, 13 sama dengan 13, jadi dia langsung di throw dan program langsung jalan ke bagian catch dan error diprint, melewatkan baris 12. sementara itu setelah ini, baris ke 21 akan dieksekusi karena kondisinya terpenuhi(exception terjadi).
